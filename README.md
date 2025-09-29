@@ -3,8 +3,8 @@ Project Setup Manual
 This guide will help you set up the project locally and deploy it to production.
 1. Clone the Repository
 Run the following commands to clone the repository and navigate to the project folder:
-git clone https://github.com/Arafat-shuvo/jiggasa.git
-cd jiggasa
+git clone [https://github.com/Arafat-shuvo/Project.git
+cd Project
 2. Backend Setup (Server)
 Follow the steps below to set up the backend server:
 Step 1: Navigate to the server folder

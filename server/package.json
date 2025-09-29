@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Arafat-shuvo/jiggasa.git"
+    "url": "https://github.com/Arafat-shuvo/Project"
   },
   "keywords": [
     "m25"
@@ -39,7 +39,7 @@
   "author": "md arafat hossain info.arafat.me@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Arafat-shuvo/jiggasa/issues"
+    "url": "https://github.com/Arafat-shuvo/Project/issues"
   },
-  "homepage": "https://github.com/Arafat-shuvo/jiggasa#readme"
+  "homepage": "https://github.com/Arafat-shuvo/Project#readme"
 }
